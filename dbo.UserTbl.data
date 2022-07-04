@@ -1,0 +1,1 @@
+﻿INSERT INTO [dbo].[UserTbl] ([Userid], [Username], [Password]) VALUES (1, N' hit2', N'12345')
